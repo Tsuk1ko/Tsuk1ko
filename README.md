@@ -13,4 +13,4 @@
   </table>
 </a>
 
-[![](https://count.getloli.com/get/@JindaiKirin?theme=rule34)](https://github.com/Tsuk1ko)
+[![](https://count.getloli.com/get/@JindaiKirin?theme=moebooru)](https://github.com/Tsuk1ko)
