@@ -1,5 +1,10 @@
 [![](https://tva1.sinaimg.cn/large/71785a53ly1fxylsf6ke7j216z0o6q8j.jpg)](https://lolicon.app)
 
+[![](https://count.getloli.com/get/@JindaiKirin?theme=moebooru)](https://github.com/Tsuk1ko)
+
+<details>
+<summary>Stats</summary>
+
 <a href="https://github.com/Tsuk1ko">
   <table>
     <tr>
@@ -12,5 +17,4 @@
     </tr>
   </table>
 </a>
-
-[![](https://count.getloli.com/get/@JindaiKirin?theme=moebooru)](https://github.com/Tsuk1ko)
+</details>
