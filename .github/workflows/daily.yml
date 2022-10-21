@@ -17,6 +17,7 @@ jobs:
             snack/github-snake-dark.svg?palette=github-dark
       - uses: dfm/force-push-branch-action@v1
         with:
+          github-token: ${{ github.token }}
           target-branch: snack
           commit-message: Snack
           path: |
