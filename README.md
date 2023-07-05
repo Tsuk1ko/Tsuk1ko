@@ -1,12 +1,5 @@
 [![](mashiro.jpg)](https://lolicon.app)
 
-<div align="center">
-
-![GitHub Snake Light](https://github.com/Tsuk1ko/Tsuk1ko/raw/snack/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Tsuk1ko/Tsuk1ko/raw/snack/github-snake-dark.svg#gh-dark-mode-only)
-
-</div>
-
 <details>
 <summary>Stats</summary>
 
