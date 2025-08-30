@@ -28,9 +28,10 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=cf-url-shortener)](https://github.com/Tsuk1ko/cf-url-shortener)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=bilibili-qr-login)](https://github.com/Tsuk1ko/bilibili-qr-login)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=userscript)](https://github.com/Tsuk1ko/userscript)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=eslint-config)](https://github.com/Tsuk1ko/eslint-config)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=fgo-bond-craft-essence-calculator)](https://github.com/Tsuk1ko/fgo-bond-craft-essence-calculator)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=pximg-proxy)](https://github.com/Tsuk1ko/pximg-proxy)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=userscript)](https://github.com/Tsuk1ko/userscript)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=fsa-promises)](https://github.com/Tsuk1ko/fsa-promises)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=gkd-subscription)](https://github.com/Tsuk1ko/gkd-subscription)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=wol-server)](https://github.com/Tsuk1ko/wol-server)
