@@ -36,4 +36,5 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=gkd-subscription)](https://github.com/Tsuk1ko/gkd-subscription)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=wol-server)](https://github.com/Tsuk1ko/wol-server)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=gf2-bbs-sign-in)](https://github.com/Tsuk1ko/gf2-bbs-sign-in)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Tsuk1ko&repo=extension-config-patcher)](https://github.com/Tsuk1ko/extension-config-patcher)
 </details>
