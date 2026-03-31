@@ -6,16 +6,7 @@
 <p></p>
 
 <a href="https://github.com/Tsuk1ko">
-  <table>
-    <tr>
-      <td>
-        <img align="center" src="https://grs.lolicon.app/api?username=Tsuk1ko&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
-      </td>
-      <td>
-        <img align="center" src="https://grs.lolicon.app/api/top-langs/?username=Tsuk1ko&layout=compact&hide_border=true&title_color=ffa000" />
-      </td>
-    </tr>
-  </table>
+  <img width="100%" src="https://githubcard.com/Tsuk1ko.svg?d=MVyVdRpN" />
 </a>
 
 [![](https://count.getloli.com/get/@JindaiKirin?theme=moebooru)](https://github.com/Tsuk1ko)
@@ -26,17 +17,16 @@
 
 <p></p>
 
-[![](https://grs.lolicon.app/api/pin/?username=Tsuk1ko&repo=cf-url-shortener)](https://github.com/Tsuk1ko/cf-url-shortener)
-[![](https://grs.lolicon.app/api/pin/?username=Tsuk1ko&repo=bilibili-qr-login)](https://github.com/Tsuk1ko/bilibili-qr-login)
-[![](https://grs.lolicon.app/api/pin/?username=Tsuk1ko&repo=osusig&1)](https://github.com/Tsuk1ko/osusig)
-[![](https://grs.lolicon.app/api/pin/?username=Tsuk1ko&repo=userscript)](https://github.com/Tsuk1ko/userscript)
-[![](https://grs.lolicon.app/api/pin/?username=Tsuk1ko&repo=fgo-bond-craft-essence-calculator)](https://github.com/Tsuk1ko/fgo-bond-craft-essence-calculator)
-[![](https://grs.lolicon.app/api/pin/?username=Tsuk1ko&repo=eslint-config)](https://github.com/Tsuk1ko/eslint-config)
-[![](https://grs.lolicon.app/api/pin/?username=Tsuk1ko&repo=pximg-proxy)](https://github.com/Tsuk1ko/pximg-proxy)
-[![](https://grs.lolicon.app/api/pin/?username=Tsuk1ko&repo=fsa-promises)](https://github.com/Tsuk1ko/fsa-promises)
-[![](https://grs.lolicon.app/api/pin/?username=Tsuk1ko&repo=gkd-subscription)](https://github.com/Tsuk1ko/gkd-subscription)
-[![](https://grs.lolicon.app/api/pin/?username=Tsuk1ko&repo=wol-server)](https://github.com/Tsuk1ko/wol-server)
-[![](https://grs.lolicon.app/api/pin/?username=Tsuk1ko&repo=gf2-bbs-sign-in)](https://github.com/Tsuk1ko/gf2-bbs-sign-in)
-
-[![](https://grs.lolicon.app/api/pin/?username=Tsuk1ko&repo=extension-config-patcher)](https://github.com/Tsuk1ko/extension-config-patcher)
+[![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=cf-url-shortener&description_lines_count=1)](https://github.com/Tsuk1ko/cf-url-shortener)
+[![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=bilibili-qr-login&description_lines_count=1)](https://github.com/Tsuk1ko/bilibili-qr-login)
+[![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=osusig&description_lines_count=1)](https://github.com/Tsuk1ko/osusig)
+[![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=userscript&description_lines_count=1)](https://github.com/Tsuk1ko/userscript)
+[![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=fgo-bond-craft-essence-calculator&description_lines_count=1)](https://github.com/Tsuk1ko/fgo-bond-craft-essence-calculator)
+[![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=eslint-config&description_lines_count=1)](https://github.com/Tsuk1ko/eslint-config)
+[![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=pximg-proxy&description_lines_count=1)](https://github.com/Tsuk1ko/pximg-proxy)
+[![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=fsa-promises&description_lines_count=1)](https://github.com/Tsuk1ko/fsa-promises)
+[![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=gkd-subscription&description_lines_count=1)](https://github.com/Tsuk1ko/gkd-subscription)
+[![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=wol-server&description_lines_count=1)](https://github.com/Tsuk1ko/wol-server)
+[![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=gf2-bbs-sign-in&description_lines_count=1)](https://github.com/Tsuk1ko/gf2-bbs-sign-in)
+[![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=extension-config-patcher&description_lines_count=1)](https://github.com/Tsuk1ko/extension-config-patcher)
 </details>
