@@ -20,6 +20,7 @@
 [![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=cf-url-shortener&description_lines_count=1)](https://github.com/Tsuk1ko/cf-url-shortener)
 [![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=bilibili-qr-login&description_lines_count=1)](https://github.com/Tsuk1ko/bilibili-qr-login)
 [![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=osusig&description_lines_count=1)](https://github.com/Tsuk1ko/osusig)
+[![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=restore-closed-tabs&description_lines_count=1)](https://github.com/Tsuk1ko/restore-closed-tabs)
 [![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=userscript&description_lines_count=1)](https://github.com/Tsuk1ko/userscript)
 [![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=fgo-bond-craft-essence-calculator&description_lines_count=1)](https://github.com/Tsuk1ko/fgo-bond-craft-essence-calculator)
 [![](https://github-stats-extended.vercel.app/api/pin?username=Tsuk1ko&repo=eslint-config&description_lines_count=1)](https://github.com/Tsuk1ko/eslint-config)
